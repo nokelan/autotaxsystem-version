@@ -1,7 +1,7 @@
 {
-  "latest": "1.0",
+  "latest": "1.1",
   "authorized": ["1.0"],
   "force_update": false,
-  "message":  "2026-04-30 오전 9시 서버 점검 예정입니다.",
+  "message":  "",
   "blacklist": []
 }
